@@ -9,3 +9,6 @@ healt intelligence(GHI) data-driven analytics for clinical and operational decis
 public transparency;open and verifiable reports for oversight institutions.
 Ai integration: intelligent agents for automation,prdiction ,and complience support.
 global dashboard;unifield visualization of international and health indicators.
+partnerships & global expansion
+the lia+ platform is currently in its pilot phase in brasil ,with planned expansion across;
+latin america,dubai and africa area
